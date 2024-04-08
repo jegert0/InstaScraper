@@ -1,0 +1,6 @@
+#hide account login
+*.env
+
+\.git
+\venv
+\.ipynb_checkpoints
